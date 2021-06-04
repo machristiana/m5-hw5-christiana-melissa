@@ -13,3 +13,6 @@ function orderPizza() {
         console.log(pizza.cheese),
         console.log(pizza.sauce);
 }
+
+orderPizza();
+pizza.addToppings();
