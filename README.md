@@ -1,1 +1,8 @@
-# m5-hw5-christiana-melissa
+# Assignment 5 - Functions, Objects, Properties and Methods
+
+## Issues
+I had no issues.
+
+## Resources
+No outside resources were used.
+
